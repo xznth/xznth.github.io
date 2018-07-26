@@ -16,13 +16,6 @@
     margin-left: auto;
     margin-right: auto;
     width: 100px;
-    -webkit-transition: -webkit-transform .3s ease-in-out;
-        transition: transform .3s ease-in-out;
-}
-
-.logo:hover {
-  -webkit-transform: rotate(90deg);
-          transform: rotate(90deg);
 }
 
 .link {
